@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  4 MAR 2020 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  4 MAR 2020 12:07
 entering extended mode
 **./Proyecto.tex
 (Proyecto.tex
@@ -169,6 +169,100 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen145
 \Gin@req@width=\dimen146
 )
+("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count190
+\mult@box=\box47
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count199
+)
+("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/changepage\changep
+age.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count266
+\cp@tempcnt=\count267
+)
+("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks23
+\float@box=\box93
+\@float@everytoks=\toks24
+\@floatcapt=\box94
+)
+("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
 sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -180,63 +274,63 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 "
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
-\Gm@cnth=\count190
-\Gm@cntv=\count191
-\c@Gm@tempcnt=\count192
-\Gm@bindingoffset=\dimen147
-\Gm@wd@mp=\dimen148
-\Gm@odd@mp=\dimen149
-\Gm@even@mp=\dimen150
-\Gm@layoutwidth=\dimen151
-\Gm@layoutheight=\dimen152
-\Gm@layouthoffset=\dimen153
-\Gm@layoutvoffset=\dimen154
-\Gm@dimlist=\toks23
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks25
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
 cfg"))
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
 d-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count193
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count272
+\l__pdf_internal_box=\box95
 ) (Proyecto.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `Proyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
-\scratchdimen=\dimen155
-\scratchbox=\box48
-\nofMPsegments=\count195
-\nofMParguments=\count196
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count197
-\MPscratchDim=\dimen156
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count273
+\scratchdimen=\dimen164
+\scratchbox=\box96
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen165
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks27
 )
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty"
@@ -278,82 +372,106 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
+<../../../Downloads/logoUniversidad.png, id=1, 501.7947pt x 501.7947pt>
+File: ../../../Downloads/logoUniversidad.png Graphic file (type png)
+<use ../../../Downloads/logoUniversidad.png>
+Package pdftex.def Info: ../../../Downloads/logoUniversidad.png  used on input 
+line 27.
+(pdftex.def)             Requested size: 150.53957pt x 150.53957pt.
+<../../../Downloads/images.jpg, id=3, 242.9075pt x 208.78pt>
+File: ../../../Downloads/images.jpg Graphic file (type jpg)
+<use ../../../Downloads/images.jpg>
+Package pdftex.def Info: ../../../Downloads/images.jpg  used on input line 27.
+(pdftex.def)             Requested size: 121.45345pt x 104.38972pt.
 
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 24--31
+[] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
-
- []
-
-<../../../Downloads/01.jpg, id=1, 457.71pt x 339.2675pt>
-File: ../../../Downloads/01.jpg Graphic file (type jpg)
-<use ../../../Downloads/01.jpg>
-Package pdftex.def Info: ../../../Downloads/01.jpg  used on input line 26.
-(pdftex.def)             Requested size: 290.22107pt x 215.12703pt.
 [1
 
-{C:/Users/willy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<../../../Downloads/1.jpeg, id=9, 625.58719pt x 334.24875pt>
+{C:/Users/willy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../../../Do
+wnloads/logoUniversidad.png> <../../../Downloads/images.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
+
+ []
+
+<../../../Downloads/01.jpg, id=10, 457.71pt x 339.2675pt>
+File: ../../../Downloads/01.jpg Graphic file (type jpg)
+<use ../../../Downloads/01.jpg>
+Package pdftex.def Info: ../../../Downloads/01.jpg  used on input line 66.
+(pdftex.def)             Requested size: 290.22107pt x 215.12703pt.
+[2
+
+ <../../../Downloads/01.jpg>]
+<../../../Downloads/1.jpeg, id=15, 625.58719pt x 334.24875pt>
 File: ../../../Downloads/1.jpeg Graphic file (type jpg)
 <use ../../../Downloads/1.jpeg>
-Package pdftex.def Info: ../../../Downloads/1.jpeg  used on input line 47.
+Package pdftex.def Info: ../../../Downloads/1.jpeg  used on input line 87.
 (pdftex.def)             Requested size: 435.32422pt x 232.60056pt.
- [2 <../../../Downloads/01.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+ [3 <../../../Downloads/1.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-<../../../Downloads/04.jpeg, id=13, 597.23125pt x 336.25626pt>
-File: ../../../Downloads/04.jpeg Graphic file (type jpg)
-<use ../../../Downloads/04.jpeg>
-Package pdftex.def Info: ../../../Downloads/04.jpeg  used on input line 74.
-(pdftex.def)             Requested size: 338.58632pt x 190.63162pt.
-[3 <../../../Downloads/1.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-[4 <../../../Downloads/04.jpeg>] (Proyecto.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+[4] (Proyecto.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 3831 strings out of 481556
- 52923 string characters out of 2913870
- 303526 words of memory out of 3000000
- 19044 multiletter control sequences out of 15000+200000
- 536447 words of font info for 40 fonts, out of 3000000 for 9000
+ 4237 strings out of 481556
+ 58937 string characters out of 2913870
+ 314540 words of memory out of 3000000
+ 19423 multiletter control sequences out of 15000+200000
+ 539101 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,35p,614b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,13n,35p,614b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/willy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb><C:/Users/willy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Users/willy/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Proyecto.pdf (4 pages, 213092 bytes).
+ublic/amsfonts/cm/cmr12.pfb>
+Output written on Proyecto.pdf (4 pages, 266616 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

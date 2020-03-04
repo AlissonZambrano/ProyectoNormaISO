@@ -6,14 +6,54 @@
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{changepage}
+\usepackage{float}
+\usepackage{cite}
+\usepackage{url}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 
-\title{PROYECTO}
-\author{Chiriguaya Alvaro\\Mite Lady\\Zambrano Allison}
-\date{2 de marzo del 2020}
+\title{PROYECTO NORMA ISO 9001}
+\author{*Chiriguaya Alvaro, *Mite Lady, *Zambrano Allison}
+\date{4 de marzo del 2020}
 \begin{document}
-\maketitle
+%encabezado 
+\pagestyle{plain}{
+\pagestyle{empty}
+\changepage{3cm}{1cm}{-0.5cm}{-0.5cm}{}{-2cm}{}{}{}
+\noindent
+  {\small
+\begin{tabular}{p{0.75\textwidth} p{0.25\textwidth} }
+\includegraphics[scale=0.3]{../../../Downloads/logoUniversidad.png}  &\includegraphics[scale=0.5]{../../../Downloads/images.jpg} 
+\end{tabular}
+}
+%datos de la caratula
+\begin{center}
+\par\vspace{2cm} %Rspacoo dejado antes del encabezado
+{
+\Huge\textbf{
+Universidad de Guayaquil \\*[0.40cm] Facultad de Ciencias Matem\'aticas y F\'isicas}
+}
+\par\vspace{3cm}
+{
 
+\Large\textbf{Proyecto basado en la norma ISO 9001:20152}
+\par\vspace{1cm}
+\Large\textbf{Ingenier\'ia de Software}
+\par\vspace{1cm}
+\Large\textbf{Materia: Procesos de Software}
+\par\vspace{1cm}
+\Large\textbf{Docente: Ing. Miguel \'Angel Botto Tobar }
+}
+\par\vspace{2cm}
+\large\textbf{ 4/03/2020}
+\par\vspace{0.5cm}
+\large\textbf{2019-2020} 
+\par\vspace{3cm} 
+
+\end{center}
+\clearpage
+}
 \section{Normas ISO 9001}
 La Norma ISO 9001:2015 es la base del Sistema de Gestión de la Calidad - SGC. Es una norma internacional que se centra en todos los elementos de la gestión de la calidad con los que una empresa debe contar para tener un sistema efectivo que le permita administrar y mejorar la calidad de sus productos o servicios. 
 Los clientes se inclinan por los proveedores que cuentan con esta acreditación porque de este modo se aseguran de que la empresa seleccionada disponga de un buen SGC.
@@ -38,16 +78,16 @@ Elaboración de un programa que sea ideal para la venta de comidas rápidas (piz
 \item Permitir imprimir los listados para gestionar los temas del negocio. Entre otros: presupuestos, facturas realizadas, gastos, beneficios, listados de impuestos, etc.
 \end{itemize}
 
-\subsection{Referencias normativas}
+\section{Referencias normativas}
 ISO 9001: 2015, Sistemas de gestión de calidad. Fundamentos y vocabulario.
 
-\subsection{Términos y definiciones}
+\section{Términos y definiciones}
 Para los fines de este documento, aplican los términos y definiciones incluidos en la norma ISO 9001:2015 y los de la empresa especialista en la creación y venta de software “TPV Gratuito 123”.
 \begin{center}
 \includegraphics[width=0.9\textwidth]{../../../Downloads/1.jpeg}  
 \end{center}
 
-\subsection{Contexto de la organización}
+\section{Contexto de la organización}
 El objetivo de la empresa es ayudar a los clientes a ahorrar tiempo y dinero en las gestiones diarias de su negocio, proporcionando sencillez y fiabilidad en sus gestiones, permitiéndoles concentrarse en la lógica de su negocio.
 Se esfuerzan en introducir nuevas e interesantes características en nuestros productos.
 Escuchan las peticiones de nuestros clientes para adaptar nuestras soluciones y satisfacer el mercado.
@@ -56,22 +96,32 @@ Escuchan las peticiones de nuestros clientes para adaptar nuestras soluciones y 
  Dan cobertura a prácticamente todo tipo de negocios.
  Soporte técnico especializado en atender tus dudas e incidencias.
  
+\subsection{Determinación del alcance}
+El programa es ideal si el negocio de restaurante está orientado a Comida Rápida o también con el conocido término de FastFood. Es decir que podrá ser implementado en restaurantes como:
+\begin{itemize}
+\item Pizzerías
+\item Hamburgueserías
+\item Bocadillerías
+\item Taquerías\\\\
+\end{itemize}
+
+\subsection{Procesos}
+El programa cuenta con los siguientes procesos:
+Pedidos a domicilio.
+\begin{itemize}
+\item Consumo en local.
+\item Pedido telefónico y recogida en local.
+\item Servicio en mesa.
+\item Caja.
+\item Listados.\\\\
+\end{itemize}
+
 \subsection{Liderazgo}
 \subsection{Planificación}
 \subsection{Apoyo}
 \subsection{Operación}
 \subsection{Evaluación del desempeño}
 \subsection{Mejora}
-
-\subsection{Comunicación con el cliente}
-Implementar disposiciones para la realización de una buena comunicación con  los clientes.
-\begin{itemize}
-\item La información sobre el producto,
-\item Las consultas, atención de pedidos, modificaciones de pedidos.
-\item Buena atención al cliente, incluyendo sus quejas.\\\\
-\end{itemize}
-\begin{center}
-\includegraphics[width=0.7\textwidth]{../../../Downloads/04.jpeg} \end{center}
 
 \subsection{Diseño y desarrollo}
 Abordamos la interpretación y aplicación de los requisitos del diseño y desarrollo de productos y servicios según la norma ISO 9001  
