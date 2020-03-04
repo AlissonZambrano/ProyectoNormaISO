@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Normas ISO 9001}{3}%
+\contentsline {section}{\numberline {2}Caso de estudio}{3}%
+\contentsline {section}{\numberline {3}Sistema de gestión de calidad}{3}%
+\contentsline {subsection}{\numberline {3.1}Objeto y campo de aplicación}{3}%
+\contentsline {section}{\numberline {4}Referencias normativas}{4}%
+\contentsline {section}{\numberline {5}Términos y definiciones}{4}%
+\contentsline {section}{\numberline {6}Contexto de la organización}{4}%
+\contentsline {subsection}{\numberline {6.1}Determinación del alcance}{5}%
+\contentsline {subsection}{\numberline {6.2}Procesos}{5}%
+\contentsline {section}{\numberline {7}Liderazgo}{5}%
+\contentsline {subsection}{\numberline {7.1}Liderazgo y compromiso}{5}%
+\contentsline {subsection}{\numberline {7.2}Políticas}{7}%
+\contentsline {subsection}{\numberline {7.3}Roles y responsabilidades}{7}%
+\contentsline {section}{\numberline {8}Planificación}{8}%
+\contentsline {section}{\numberline {9}Apoyo}{8}%
+\contentsline {section}{\numberline {10}Operación}{8}%
+\contentsline {section}{\numberline {11}Evaluación del desempeño}{8}%
+\contentsline {section}{\numberline {12}Mejora}{8}%

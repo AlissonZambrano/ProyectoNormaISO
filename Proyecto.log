@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.24)  4 MAR 2020 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.24)  4 MAR 2020 14:33
 entering extended mode
-**./Proyecto.tex
-(Proyecto.tex
+**./proyecto.tex
+(proyecto.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 ("C:\Users\Alvaro\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
@@ -300,28 +300,28 @@ nd-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count272
 \l__pdf_internal_box=\box95
-) (Proyecto.aux
+) (proyecto.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
-\openout1 = `Proyecto.aux'.
+\openout1 = `proyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 
 ("C:\Users\Alvaro\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
 pdf.mkii"
@@ -378,125 +378,128 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
 
 ("C:\Users\Alvaro\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
 
  ("C:\Users\Alvaro\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<../../logoUniversidad.png, id=1, 501.7947pt x 501.7947pt>
-File: ../../logoUniversidad.png Graphic file (type png)
-<use ../../logoUniversidad.png>
-Package pdftex.def Info: ../../logoUniversidad.png  used on input line 26.
+<logoUniversidad.png, id=1, 501.7947pt x 501.7947pt>
+File: logoUniversidad.png Graphic file (type png)
+<use logoUniversidad.png>
+Package pdftex.def Info: logoUniversidad.png  used on input line 28.
 (pdftex.def)             Requested size: 150.53957pt x 150.53957pt.
-<../../images.jpg, id=3, 242.9075pt x 208.78pt>
-File: ../../images.jpg Graphic file (type jpg)
-<use ../../images.jpg>
-Package pdftex.def Info: ../../images.jpg  used on input line 26.
+<images.jpg, id=3, 242.9075pt x 208.78pt>
+File: images.jpg Graphic file (type jpg)
+<use images.jpg>
+Package pdftex.def Info: images.jpg  used on input line 28.
 (pdftex.def)             Requested size: 121.45345pt x 104.38972pt.
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 23--30
-[] 
+Overfull \hbox (26.61107pt too wide) in paragraph at lines 24--32
+ [] 
  []
 
 [1
 
-{C:/Users/Alvaro/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../../logo
-Universidad.png> <../../images.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
+{C:/Users/Alvaro/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logoUniv
+ersidad.png> <./images.jpg>] (proyecto.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `proyecto.toc'.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
-
- []
-
-[2
+ [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 66--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 66--70
+
+ []
+
+<primeraimagen.jpg, id=14, 457.71pt x 339.2675pt>
+File: primeraimagen.jpg Graphic file (type jpg)
+<use primeraimagen.jpg>
+Package pdftex.def Info: primeraimagen.jpg  used on input line 83.
+(pdftex.def)             Requested size: 290.22107pt x 215.12703pt.
+[3]
+<segundaimagen.jpeg, id=18, 625.58719pt x 334.24875pt>
+File: segundaimagen.jpeg Graphic file (type jpg)
+<use segundaimagen.jpeg>
+Package pdftex.def Info: segundaimagen.jpeg  used on input line 92.
+(pdftex.def)             Requested size: 435.32422pt x 232.60056pt.
+ [4 <./primeraimagen.jpg> <./segundaimagen.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
-[3] (Proyecto.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+
+ []
+
+[6] [7] [8] (proyecto.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 4223 strings out of 481556
- 58577 string characters out of 2913401
+ 4249 strings out of 481556
+ 58845 string characters out of 2913401
  315540 words of memory out of 3000000
- 19412 multiletter control sequences out of 15000+200000
- 539101 words of font info for 49 fonts, out of 3000000 for 9000
+ 19432 multiletter control sequences out of 15000+200000
+ 540655 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,13n,35p,614b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,13n,35p,479b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Alvaro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/Alvaro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr12.pfb>
-Output written on Proyecto.pdf (3 pages, 149917 bytes).
+Output written on proyecto.pdf (8 pages, 274637 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
