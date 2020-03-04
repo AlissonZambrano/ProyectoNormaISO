@@ -14,6 +14,7 @@
 \contentsline {subsection}{\numberline {7.3}Roles y responsabilidades}{7}%
 \contentsline {section}{\numberline {8}Planificación}{8}%
 \contentsline {section}{\numberline {9}Apoyo}{8}%
-\contentsline {section}{\numberline {10}Operación}{8}%
-\contentsline {section}{\numberline {11}Evaluación del desempeño}{8}%
-\contentsline {section}{\numberline {12}Mejora}{8}%
+\contentsline {section}{\numberline {10}Operación}{9}%
+\contentsline {subsection}{\numberline {10.1}Diseño del producto}{14}%
+\contentsline {section}{\numberline {11}Evaluación del desempeño}{20}%
+\contentsline {section}{\numberline {12}Mejora}{20}%
