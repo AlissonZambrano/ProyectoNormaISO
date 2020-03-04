@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  4 MAR 2020 01:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  4 MAR 2020 08:47
 entering extended mode
 **./Proyecto.tex
 (Proyecto.tex
@@ -206,22 +206,22 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `Proyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
@@ -278,125 +278,105 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
 
 ("C:\Users\willy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
 <../../Downloads/01.jpg, id=1, 457.71pt x 339.2675pt>
 File: ../../Downloads/01.jpg Graphic file (type jpg)
 <use ../../Downloads/01.jpg>
-Package pdftex.def Info: ../../Downloads/01.jpg  used on input line 25.
+Package pdftex.def Info: ../../Downloads/01.jpg  used on input line 27.
 (pdftex.def)             Requested size: 290.22107pt x 215.12703pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
-
- []
-
 [1
 
-{C:/Users/willy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../../Downl
-oads/01.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+{C:/Users/willy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 <../../Downloads/02.jpeg, id=9, 559.08875pt x 314.17375pt>
 File: ../../Downloads/02.jpeg Graphic file (type jpg)
 <use ../../Downloads/02.jpeg>
-Package pdftex.def Info: ../../Downloads/02.jpeg  used on input line 45.
+Package pdftex.def Info: ../../Downloads/02.jpeg  used on input line 47.
 (pdftex.def)             Requested size: 338.58632pt x 190.26985pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
-
- []
-
-[2 <../../Downloads/02.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[2 <../../Downloads/01.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 <../../Downloads/03.jpeg, id=13, 597.23125pt x 315.1775pt>
 File: ../../Downloads/03.jpeg Graphic file (type jpg)
 <use ../../Downloads/03.jpeg>
-Package pdftex.def Info: ../../Downloads/03.jpeg  used on input line 57.
+Package pdftex.def Info: ../../Downloads/03.jpeg  used on input line 59.
 (pdftex.def)             Requested size: 338.58632pt x 178.68158pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
-
-<../../Downloads/04.jpeg, id=14, 597.23125pt x 336.25626pt>
+[3 <../../Downloads/02.jpeg> <../../Downloads/03.jpeg>]
+<../../Downloads/04.jpeg, id=17, 597.23125pt x 336.25626pt>
 File: ../../Downloads/04.jpeg Graphic file (type jpg)
 <use ../../Downloads/04.jpeg>
-Package pdftex.def Info: ../../Downloads/04.jpeg  used on input line 68.
+Package pdftex.def Info: ../../Downloads/04.jpeg  used on input line 70.
 (pdftex.def)             Requested size: 338.58632pt x 190.63162pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
-
- []
-
-[3 <../../Downloads/03.jpeg> <../../Downloads/04.jpeg>] [4] (Proyecto.aux
+[4 <../../Downloads/04.jpeg>] (Proyecto.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 3835 strings out of 481556
- 52924 string characters out of 2913870
- 305528 words of memory out of 3000000
- 19047 multiletter control sequences out of 15000+200000
- 536140 words of font info for 39 fonts, out of 3000000 for 9000
+ 3836 strings out of 481556
+ 52941 string characters out of 2913870
+ 303526 words of memory out of 3000000
+ 19048 multiletter control sequences out of 15000+200000
+ 536447 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,6n,35p,614b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/willy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb><C:/Users/willy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmr12.pfb><C:/Users/willy/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Proyecto.pdf (4 pages, 181247 bytes).
+Output written on Proyecto.pdf (4 pages, 182620 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
